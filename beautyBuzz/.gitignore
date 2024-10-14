@@ -1,0 +1,7 @@
+# Node modules
+node_modules/
+
+# Environment variables and configuration files
+.env
+config/env.js
+environment/*
